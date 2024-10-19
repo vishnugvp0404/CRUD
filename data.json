@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "redme note 11",
+      "price": "29000",
+      "category": "mobiles",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "vivo v20 ",
+      "price": 20000,
+      "category": "mobiles"
+    },
+    {
+      "id": "3",
+      "name": "Mac book Air ",
+      "price": 100000,
+      "category": "mobiles"
+    },
+    {
+      "name": "Hp i7",
+      "price": "500000",
+      "category": "laptops",
+      "id": "4"
+    },
+    {
+      "name": "narzo 50",
+      "price": "14500",
+      "category": "mobiles",
+      "id": "5"
+    },
+    {
+      "id": 6,
+      "name": "iphone 16",
+      "price": "79900",
+      "category": "mobiles"
+    }
+  ]
+}
